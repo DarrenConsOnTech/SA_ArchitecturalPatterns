@@ -1,9 +1,9 @@
 import javax.swing.*;
 import java.awt.*;
 
-public class Display {
+public class CashRegisterGUI {
 	JFrame jf;
-	public Display() {
+	public CashRegisterGUI() {
 		jf = new JFrame("Display");
 		
 		JButton btn = new JButton("Start New Session");		
@@ -15,6 +15,6 @@ public class Display {
 	}
 	
 	public static void main(String[] args) {
-		new Display();
+		new CashRegisterGUI();
 	}
 }
