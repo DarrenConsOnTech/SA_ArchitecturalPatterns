@@ -36,8 +36,8 @@ This section identifies a list of design drivers extracted from requirements of 
 ***
 ## Constraints
 
-| ID    | Constraint                                                                                                                                  | Req. ID |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------------|---------|
-| CON-1 | Authentication is required by any individual that wishes to use the system and authorization is given<br>according to worker/company title. | R-01    |
-| CON-2 | System has to be adaptable to new changes in the future.                                                                                    | R-08    |
-| CON-3 | All information about products should be within the local database.                                                                         | R-09    |
+| ID    | Constraint                                                                                                                                  | Req. ID   |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------------|-----------|
+| CON-1 | Authentication is required by any individual that wishes to use the system and authorization is given<br>according to worker/company title. | R-01      |
+| CON-2 | System has to be adaptable to new changes in the future.                                                                                    | R-08      |
+| CON-3 | All information about products should be within the local database.                                                                         | R-09      |
