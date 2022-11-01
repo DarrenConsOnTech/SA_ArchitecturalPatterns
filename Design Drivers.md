@@ -1,4 +1,4 @@
-# Desgin Drivers
+# Design Drivers
 This section identifies a list of design drivers extracted from requirements of a Cash Register System.
 <br>
 <br>
