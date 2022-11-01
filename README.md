@@ -1,4 +1,11 @@
-# SA_ArchitecturalPatterns
+# Table of Contents
+1. [Instructions](#instructions)
+2. [Design Drivers](https://github.com/DarrenConsOnTech/SA_ArchitecturalPatterns/blob/f3f5ec8c886534f9e4f65b57bf4ee73daa984171/Design%20Drivers.md)
+3. [Component Dependency Diagram](https://github.com/DarrenConsOnTech/SA_ArchitecturalPatterns/blob/f3f5ec8c886534f9e4f65b57bf4ee73daa984171/Component%20Diagram.md)
+4. [Sequence Diagram](https://github.com/DarrenConsOnTech/SA_ArchitecturalPatterns/blob/f3f5ec8c886534f9e4f65b57bf4ee73daa984171/Sequence%20Diagram.md)
+   
+## Instructions
+
 ![image](https://user-images.githubusercontent.com/88805493/199153440-45bcf173-c3a5-4347-aa43-7da3f37a31f9.png)
 <br>1) User will be prompted to start a session. A session will be created once the user clicks the button.<br>
 ![image](https://user-images.githubusercontent.com/88805493/199153499-aeedea49-ed9f-49f0-abe3-ccdc18813fca.png)
