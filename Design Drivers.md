@@ -6,14 +6,14 @@ This section identifies a list of design drivers extracted from requirements of 
 ***
 ## Use Cases
 
-| ID | Use Cases | Description | Req. ID |
-|----|-----------|-------------|---------|
-|    |           |             |         |
-|    |           |             |         |
-|    |           |             |         |
-|    |           |             |         |
-|    |           |             |         |
-|    |           |             |         |
+| ID   | Use Case                     | Description                                                                                                                                                                                                                                                                      | Req. ID          |
+|------|------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
+| UC-1 | Adding and Deleting Products | User is able to scan barcodes and retrieve information regarding the specific product using the<br>information stored on the local database. Users can also cancel any product that has initially<br>been scanned. If an unknown product is scanned then a message is displayed. | R-03, R-04, R-07 |
+| UC-2 | Display                      | The information gathered from the local database about a specific product is displayed on a monitor<br>for the cashier and customer to view.                                                                                                                                     | R-03             |
+| UC-3 | Generate Total               | Once the payment has been processed, a receipt of all items and their specifications are printed.                                                                                                                                                                                | R-06             |
+| UC-4 | Payment                      | Once payment is required, the system should be able to take multiple forms of payment such as cash,<br>debit, or credit card where 3rd party payment systems may be used to complete the transactions.                                                                           | R-05             |
+| UC-5 | Manage Sessions              | User should be able to create and end sessions through different parts of the checkout process.                                                                                                                                                                                  | R-01, R-02, R-06 |
+| UC-6 | Maintenance                  | The system is able to change hardware platforms promoting portability along with its local<br>database of products.                                                                                                                                                              | R-08, R-09       |
 
 
 <br>
