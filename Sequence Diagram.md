@@ -1,3 +1,3 @@
 # Sequence Diagram
 
-![Sequence Diagram](https://github.com/DarrenConsOnTech/SA_ArchitecturalPatterns/blob/cc00b392ff9b66fc4a824c881d3c7714a891d858/SequenceDiagram.drawio.png?raw=true)
+![Sequence Diagram](https://user-images.githubusercontent.com/95059924/199152804-dfaf21f2-e9fa-41dd-a273-3125c270c1e9.png)
